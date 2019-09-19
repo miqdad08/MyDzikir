@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyDzikir</string>
+    <string name="nomor">1</string>
+    <string name="judul">Language Arab</string>
+    <string name="subJudul">Translate</string>
+
+
+    <string name="about">
+        Assalamualaikum warahmatullahi Wabaraktuh All praise is to Allah. We praise asking for help, and begging for forgiveness to him. no God has the right to be worshiped properly except Him, and Muhammad صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ، Is a servant and Messenger - his Application to Facilitate the user to be able to read the Morning and Evening Remembrances and in the Application there is not only the Morning and Evening Remembrances but there is also a Prayer Daily and Dhikr After the Fardhu Prayer
+    </string>
+    <string name="Bahasa">Change Language</string>
+    <string name="TentangPembuat">About Maker</string>
+    <string name="JudulNama">Name</string>
+    <string name="JudulTempatLahir">Place Of Birth</string>
+    <string name="JudulAlamat">Addres</string>
+    <string name="JudulAsalSekolah">School</string>
+    <string name="JudulGmail">Gmail</string>
+    <string name="JudulInstagram">Instagram</string>
+    <string name="Nama"> : Ahmad Miqdad</string>
+    <string name="TempatLahir"> : Est Jakarta , 11/28/05</string>
+    <string name="Alamat"> : Jl.Almabruk No.48</string>
+    <string name="AsalSekolah"> : IDN Boarding School</string>
+    <string name="Gmail"> : miqdaddeveloper@gmail.com</string>
+    <string name="Instagram"> : @miqdaaad_</string>
+</resources>

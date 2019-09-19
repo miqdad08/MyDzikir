@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyDzikir</string>
+    <string name="nomor">1</string>
+    <string name="judul">Bahasa Arab</string>
+    <string name="subJudul">Artinya</string>
+
+
+    <string name="about">
+        Assalamualaikum warahmatullahi Wabaraktuh Segala puji bagi Allah. Kita memuji meminta pertolongan, dan memohon ampunan kepadanya. tiada Ilah yang berhak diibadahi dengan benar kecuali Dia, DAn Muhammad صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، Adalah hamba dan Utusan - nya Aplikasi untuk Memudahkan Bagi pengguna Untuk bisa membaca Dzikir Pagi dan Petang Dan di Aplikasi tidak Hanya ada Dzikir Pagi dan Petang Namun Ada Juga Ada Doa Harian dan Dzikir Setelah Shalat Fardhu
+    </string>
+    <string name="Bahasa">Ganti Bahasa</string>
+    <string name="TentangPembuat">Tentang Pembuat</string>
+    <string name="JudulNama">Nama</string>
+    <string name="JudulTempatLahir">Tempat lahir</string>
+    <string name="JudulAlamat">Alamat</string>
+    <string name="JudulAsalSekolah">Sekolah</string>
+    <string name="JudulGmail">Email</string>
+    <string name="JudulInstagram">Instagram</string>
+    <string name="Nama"> : Ahmad Miqdad</string>
+    <string name="TempatLahir"> : Jakarta Timur , 11/28/05</string>
+    <string name="Alamat"> : Jl.Almabruk No.48</string>
+    <string name="AsalSekolah"> : IDN Boarding School</string>
+    <string name="Gmail"> : miqdaddeveloper@gmail.com</string>
+    <string name="Instagram"> : @miqdaaad_</string>
+
+    
+    
+</resources>
