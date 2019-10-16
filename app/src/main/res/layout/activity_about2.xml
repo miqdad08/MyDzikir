@@ -60,6 +60,12 @@
                 android:layout_height="wrap_content"
                 android:text="@string/JudulInstagram"
                 android:textSize="20sp"/>
+            
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/JudulFacebook"
+                android:textSize="20sp"/>
 
         </LinearLayout>
 
@@ -104,6 +110,12 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/Instagram"
+                android:textSize="20sp"/>
+            
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Facebook"
                 android:textSize="20sp"/>
 
         </LinearLayout>
