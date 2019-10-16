@@ -16,12 +16,14 @@
     <string name="JudulAsalSekolah">Sekolah</string>
     <string name="JudulGmail">Email</string>
     <string name="JudulInstagram">Instagram</string>
+    <string name="JudulFacebook">Facebook</string>
     <string name="Nama"> : Ahmad Miqdad</string>
     <string name="TempatLahir"> : Jakarta Timur , 11/28/05</string>
     <string name="Alamat"> : Jl.Almabruk No.48</string>
     <string name="AsalSekolah"> : IDN Boarding School</string>
     <string name="Gmail"> : miqdaddeveloper@gmail.com</string>
     <string name="Instagram"> : @miqdaaad_</string>
+    <string name="Facebook"> : @ahmadmiqdad</string>
 
     
     
