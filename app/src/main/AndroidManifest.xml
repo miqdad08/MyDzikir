@@ -22,7 +22,11 @@
         <activity android:name=".TakbirActivity" />
         <activity android:name=".TahmidActivity" />
         <activity android:name=".TasbihActivity" />
-        <activity android:name=".About2Activity"></activity>
+        <activity android:name=".About2Activity">
+                    <meta-data android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Utama"/>
+
+        </activity>
     </application>
 
 </manifest>
